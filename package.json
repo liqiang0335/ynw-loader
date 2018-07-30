@@ -1,0 +1,19 @@
+{
+  "name": "ynw-loader",
+  "version": "0.0.2",
+  "description": "loader of webpack for ynw",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liqiang0335/ynw-loader.git"
+  },
+  "author": "liqiang0335@qq.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liqiang0335/ynw-loader/issues"
+  },
+  "homepage": "https://github.com/liqiang0335/ynw-loader#readme"
+}
