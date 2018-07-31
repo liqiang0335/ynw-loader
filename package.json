@@ -1,6 +1,6 @@
 {
   "name": "ynw-loader",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "loader of webpack for ynw",
   "main": "index.js",
   "scripts": {
