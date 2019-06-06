@@ -1,3 +1,3 @@
 module.exports = function(content) {
-  return `require("ynw");` + content;
+  return `require("ynw/tiper");` + content;
 };
